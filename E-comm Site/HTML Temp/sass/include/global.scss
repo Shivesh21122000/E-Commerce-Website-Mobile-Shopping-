@@ -1,0 +1,6 @@
+/* Global class */
+
+button,button:focus{                  //This class will remove the light blue border we get after clicking on button
+    outline: none !important;
+    box-shadow: none !important;
+}
